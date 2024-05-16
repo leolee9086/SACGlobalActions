@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "rubick-native": "^0.0.16-beta",
+    "rubick-native-addon-win32-x64-msvc": "^0.0.15-beta"
+  }
+}

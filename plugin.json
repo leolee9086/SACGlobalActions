@@ -1,0 +1,44 @@
+{
+    "name": "SACGlobalActions",
+    "author": "椽承设计",
+    "url": "https://github.com/leolee9086/SACGlobalActions",
+    "version": "0.0.4",
+    "minAppVersion": "3.0.0",
+    "backends": [
+      "windows"
+    ],
+    "frontends":[
+      "desktop", 
+      "browser-desktop"
+    ],
+    "displayName": {
+      "default": "SACGlobalActions",
+      "zh_CN": "SAC全局动作"
+    },
+    "description": {
+      "default": "",
+      "zh_CN": "用于实现全局系统功能"
+    },
+    "readme": {
+      "default": "README.md",
+      "zh_CN": "README_zh_CN.md"
+    },
+    "funding": {
+      "openCollective": "",
+      "patreon": "",
+      "github": "",
+      "custom": [
+        "https://ld246.com/sponsor"
+      ]
+    },
+
+    "keywords": [
+      "apikey",
+      "ai",
+      "配置",
+      "管理",
+      "SAC",
+      "椽承设计"
+    ]
+  }
+  
